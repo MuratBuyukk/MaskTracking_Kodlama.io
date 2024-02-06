@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workaround", "Workaround\Workaround.csproj", "{8DD5AD94-FA57-4DF6-98B4-8C6E3BC2F3B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{952AA036-1BC0-45F9-9117-819800D667DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{6D9BBEED-B8B2-480F-BF0F-82C3E4C16437}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DD5AD94-FA57-4DF6-98B4-8C6E3BC2F3B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DD5AD94-FA57-4DF6-98B4-8C6E3BC2F3B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DD5AD94-FA57-4DF6-98B4-8C6E3BC2F3B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DD5AD94-FA57-4DF6-98B4-8C6E3BC2F3B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{952AA036-1BC0-45F9-9117-819800D667DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{952AA036-1BC0-45F9-9117-819800D667DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{952AA036-1BC0-45F9-9117-819800D667DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{952AA036-1BC0-45F9-9117-819800D667DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D9BBEED-B8B2-480F-BF0F-82C3E4C16437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D9BBEED-B8B2-480F-BF0F-82C3E4C16437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D9BBEED-B8B2-480F-BF0F-82C3E4C16437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D9BBEED-B8B2-480F-BF0F-82C3E4C16437}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B966E98-63FA-40FD-957F-04A1D5C5B6CD}
+	EndGlobalSection
+EndGlobal
